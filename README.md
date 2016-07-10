@@ -1,3 +1,3 @@
 # Todo With Tropo
 
-This is the matching repository for the Tropo Todo Video (Link Here){https://www.youtube.com/watch?v=YJEbM_5FJKI}
+This is the matching repository for the Tropo Todo Video https://www.youtube.com/watch?v=YJEbM_5FJKI
